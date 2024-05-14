@@ -166,8 +166,9 @@ Publish the website in the given URL.
 '''
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-29 213841.png>)
-![alt text](<Screenshot 2024-04-29 213901.png>)
+![WhatsApp Image 2024-05-14 at 10 55 34_d9162c84](https://github.com/vinnush147/Calc/assets/147139234/40834c0c-b54f-4b60-a88f-f5af24f1b698)
+
+![Uploading WhatsApp Image 2024-05-14 at 10.55.46_c1de5dd8.jpg…]()
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
